@@ -1,16 +1,36 @@
-# hemant_md
+# 🌐 ConnectSphere
 
-A new Flutter project.
+ConnectSphere is an anonymous social media platform where users can share photos, videos, and messages without revealing their identity. Connect with others, gain followers, chat privately, and express yourself freely in a safe, privacy-first environment focused on content and real interaction.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🔒 Anonymous user experience
+* 📸 Photo & video sharing
+* ❤️ Likes and followers system
+* 💬 Private anonymous chat
+* 🌍 Explore and discover content
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+* Flutter
+* Dart
+
+---
+
+## 📱 Getting Started
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 💡 Vision
+
+To create a social platform where people connect through ideas, not identity.
+
